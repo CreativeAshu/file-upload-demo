@@ -1,0 +1,32 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.xyz.upload.demo"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "FileUploadDemo",
+        "packageName": "com.xyz.upload.demo",
+        "packageFolder": "com/xyz/upload/demo",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "no",
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YTg5YjliODQ2YjQ5ZWE4M2VmN2ExODVkODZjOGU1MzFkZWEzNGVhZWNiMzA5NWQyOTJhMmRkMTQzZTE1MDA5ZjZkNDZiNzExMDkyNjIwZGUxNmYzZGU0Mjc0MWZjZDE4ZTYyMTIyY2ZhMDdkNTdmZDE3MGQxMTE1MDhiMTNhYjE=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
